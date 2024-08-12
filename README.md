@@ -41,7 +41,7 @@ YOLOv8 outperformed the other models in all metrics, making it the top choice fo
 
 Firstly, you need to download the data from this [link](https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set)
 . After it is downloaded, place it in models directory structured as is (dataset/...). 
-To train models, just run each notebook. Additional instructions are provided as comments in notebooks.
+To train models, just run each notebook. Additional instructions are provided as comments in notebooks if needed.
 
 ## Paper
 
