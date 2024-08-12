@@ -1,0 +1,7 @@
+dataset/
+.ipynb_checkpoints/
+runs/
+*.yaml
+yolov8n.pt
+yolov8n-cls.pt
+.venv/

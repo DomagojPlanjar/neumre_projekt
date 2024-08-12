@@ -1,0 +1,76 @@
+                    precision    recall  f1-score   support
+
+           Afghan       1.00      1.00      1.00        10
+ African Wild Dog       0.91      1.00      0.95        10
+         Airedale       1.00      0.80      0.89        10
+American Hairless       1.00      0.80      0.89        10
+ American Spaniel       0.47      0.90      0.62        10
+          Basenji       0.77      1.00      0.87        10
+           Basset       1.00      0.90      0.95        10
+           Beagle       1.00      1.00      1.00        10
+   Bearded Collie       1.00      0.80      0.89        10
+         Bermaise       0.91      1.00      0.95        10
+     Bichon Frise       1.00      1.00      1.00        10
+         Blenheim       0.69      0.90      0.78        10
+       Bloodhound       0.71      1.00      0.83        10
+         Bluetick       1.00      1.00      1.00        10
+    Border Collie       1.00      0.80      0.89        10
+           Borzoi       1.00      0.90      0.95        10
+   Boston Terrier       0.82      0.90      0.86        10
+            Boxer       0.62      1.00      0.77        10
+     Bull Mastiff       0.89      0.80      0.84        10
+     Bull Terrier       1.00      0.80      0.89        10
+          Bulldog       0.89      0.80      0.84        10
+            Cairn       0.77      1.00      0.87        10
+        Chihuahua       1.00      1.00      1.00        10
+  Chinese Crested       0.90      0.90      0.90        10
+             Chow       1.00      0.60      0.75        10
+          Clumber       1.00      0.90      0.95        10
+         Cockapoo       0.86      0.60      0.71        10
+           Cocker       0.73      0.80      0.76        10
+           Collie       0.83      1.00      0.91        10
+            Corgi       0.91      1.00      0.95        10
+           Coyote       1.00      1.00      1.00        10
+        Dalmation       1.00      1.00      1.00        10
+            Dhole       0.83      1.00      0.91        10
+            Dingo       0.80      0.80      0.80        10
+         Doberman       0.82      0.90      0.86        10
+        Elk Hound       1.00      0.90      0.95        10
+   French Bulldog       0.82      0.90      0.86        10
+   German Sheperd       0.71      1.00      0.83        10
+ Golden Retriever       0.91      1.00      0.95        10
+       Great Dane       1.00      1.00      1.00        10
+   Great Perenees       1.00      1.00      1.00        10
+        Greyhound       1.00      1.00      1.00        10
+      Groenendael       0.82      0.90      0.86        10
+    Irish Spaniel       0.67      0.20      0.31        10
+  Irish Wolfhound       1.00      1.00      1.00        10
+ Japanese Spaniel       0.91      1.00      0.95        10
+         Komondor       1.00      1.00      1.00        10
+      Labradoodle       0.56      0.90      0.69        10
+         Labrador       1.00      0.80      0.89        10
+            Lhasa       0.57      0.80      0.67        10
+         Malinois       0.71      0.50      0.59        10
+          Maltese       1.00      0.90      0.95        10
+     Mex Hairless       0.77      1.00      0.87        10
+     Newfoundland       1.00      1.00      1.00        10
+         Pekinese       0.89      0.80      0.84        10
+         Pit Bull       1.00      0.50      0.67        10
+       Pomeranian       0.83      1.00      0.91        10
+           Poodle       1.00      1.00      1.00        10
+              Pug       1.00      0.80      0.89        10
+        Rhodesian       0.62      1.00      0.77        10
+       Rottweiler       1.00      0.90      0.95        10
+    Saint Bernard       1.00      0.80      0.89        10
+        Schnauzer       1.00      0.70      0.82        10
+   Scotch Terrier       1.00      1.00      1.00        10
+         Shar_Pei       1.00      1.00      1.00        10
+        Shiba Inu       1.00      0.80      0.89        10
+         Shih-Tzu       0.83      0.50      0.62        10
+   Siberian Husky       1.00      0.90      0.95        10
+           Vizsla       1.00      0.30      0.46        10
+           Yorkie       1.00      0.70      0.82        10
+
+         accuracy                           0.87       700
+        macro avg       0.90      0.87      0.87       700
+     weighted avg       0.90      0.87      0.87       700
